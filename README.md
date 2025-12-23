@@ -68,28 +68,6 @@
 
 ---
 
-### 📊 GitHub & LeetCode Stats
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=lakshyagupta001&show_icons=true&theme=tokyonight&hide_border=true" 
-    alt="GitHub Stats" 
-    height="180"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyagupta001&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Top Languages" 
-    height="180"
-  />
-</div>
-
-<div align="center">
-  <img 
-    src="https://leetcard.jacoblin.cool/lakshyagupta001?theme=dark&font=Fira+Code&ext=heatmap&border=0" 
-    alt="LeetCode Stats"
-  />
-</div>
-
 ---
 
 ### 🤝 Let's Connect!
