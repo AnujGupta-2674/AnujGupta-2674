@@ -15,7 +15,7 @@
 - 🌱 Currently **SDE Intern at Playtplus Technology** in the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** domain  
 - 💡 Always eager to learn new technologies and frameworks  
 - 🛠️ Skilled in **C, C++, JavaScript, TypeScript, Java**, **MERN Stack**, **REST APIs**, **MySQL**, **Git**, **Postman**, **Figma**  
-- 🤝 Open to **collaborations**, **internships**, and **open-source contributions**
+- 🤝 Open to **collaborations**, **full time**, and **open-source contributions**
 
 ---
 
