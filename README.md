@@ -10,9 +10,9 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 Pursuing **B.E. in Computer Science Engineering** at **Lokmanya Tilak College of Engineering** (2022–2026)  
+- 🎓 Completed **B.E. in Computer Science Engineering** at **Lokmanya Tilak College of Engineering** (2022–2026)  
 - 🌐 Passionate about **Web Development** and solving real-world problems  
-- 🌱 Currently **SDE Intern at Playtplus Technology** in the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** domain  
+- 🌱 Worked as an **SDE Intern at Playtplus Technology** in the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** domain  
 - 💡 Always eager to learn new technologies and frameworks  
 - 🛠️ Skilled in **C, C++, JavaScript, TypeScript, Java**, **MERN Stack**, **REST APIs**, **MySQL**, **Git**, **Postman**, **Figma**  
 - 🤝 Open to **collaborations**, **full time**, and **open-source contributions**
